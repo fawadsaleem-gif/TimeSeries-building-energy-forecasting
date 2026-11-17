@@ -52,7 +52,7 @@ described as **recorded electricity readings**, not kW or kWh.
 
 ## Dataset and evaluation
 
-Dataset github link : [BDG2 Dataset Repository]
+Dataset kaggle link : [[BDG2 Dataset Repository]](https://www.kaggle.com/datasets/claytonmiller/buildingdatagenomeproject2)
 The selected meter contains 17,544 hourly timestamps in the original
 full-year dataset. The selected analysis period contains 14,166 hourly
 observations, from 20 May 2016 18:00 to 31 December 2017 23:00.
