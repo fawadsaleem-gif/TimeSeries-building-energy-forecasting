@@ -241,3 +241,7 @@ path adjustments to match your downloaded dataset layout.
 
 This project uses data from the Building Data Genome Project 2 (BDG2).
 The work is an educational and research-oriented forecasting study.
+
+## Citation:
+
+Miller, C., Kathirgamanathan, A., Picchetti, B., et al. (2020). The Building Data Genome Project 2, energy meter data from the ASHRAE Great Energy Predictor III competition. Scientific Data, 7, 368. DOI: 10.1038/s41597-020-00712-x.
