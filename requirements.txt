@@ -1,0 +1,15 @@
+Core data analysis
+
+numpy pandas matplotlib
+
+Statistical time-series models
+
+statsmodels
+
+Machine-learning models and evaluation
+
+scikit-learn joblib
+
+Notebook environment
+
+jupyterlab ipykernel

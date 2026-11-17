@@ -1,0 +1,31 @@
+# Dataset — do not upload
+data/
+
+# Trained models — publish separately on Hugging Face
+# All trained models — publish selected models separately on Hugging Face
+models/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.log
