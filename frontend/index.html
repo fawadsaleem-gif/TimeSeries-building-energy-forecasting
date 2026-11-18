@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Building Energy Forecasting</title>
+
+</head>
+
+<body>
+
+    <h1>Building Energy Forecasting</h1>
+
+    <p>
+        Predict the next hourly building energy reading
+        using our trained Machine Learning model.
+    </p>
+
+    <h2>Historical Readings</h2>
+
+    <p>
+        Enter the previous 48 hourly readings,
+        from oldest to newest.
+    </p>
+
+    <div id="readings-container"></div>
+
+    <h2>Prediction Timestamp</h2>
+
+    <input type="datetime-local" id="timestamp">
+
+    <br><br>
+
+    <button id="predict-button">Predict Next Hour</button>
+
+    <h2>Prediction Result</h2>
+
+    <div id="result">
+        Your prediction will appear here.
+    </div>
+
+    <script src="script.js"></script>
+    
+</body>
+
+</html>
